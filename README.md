@@ -1,7 +1,3 @@
-Aquí tienes un **README profesional, estructurado y motivador** para tu repositorio de **ARGUS**, integrando todos los notebooks y su propósito estratégico. Está listo para publicar en GitHub con un enfoque técnico, institucional y social atractivo:
-
----
-
 # 🌎 ARGUS
 
 ## 🔬 **ARGUS: Análisis Geoespacial para la Gestión Ambiental y Territorial**
